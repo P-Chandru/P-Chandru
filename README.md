@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @P-Chandru
-- 👀 I’m interested in Data engineering 
-- 🌱 I’m currently learning Python and Javascript 
-- 💞️ I’m looking to collaborate on any live projects 
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: -_-
+# Hi there, I'm Chan 👋
 
-<!---
-P-Chandru/P-Chandru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- 🎓 Master of Science in Physics
+- 💼 Data Research Engineer By Profession 
+- 🔍 Exploring **Data Extraction**, **AI**, and **Quantum Physics**
+- 🛠 Skills: Python, SQL, Excel, Web Scraping, C
+- 📚 Interests: Quantum Physics, AI, Guidance & Navigation Systems
+
+## 🌱 Currently Learning
+- GitHub & MySQL
+- MATLAB & Simulink for GNC Systems
+- Advanced Web Scraping & Automation
+
+## 📈 GitHub Stats
+![Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Chandru&show_icons=true&theme=radical)
+
+---
+
+⭐️ From [Chandru](https://github.com/P-Chandru)
